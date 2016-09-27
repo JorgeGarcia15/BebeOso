@@ -178,7 +178,7 @@ public class MiFrame2 extends javax.swing.JFrame {
     }//GEN-LAST:event_jButton1MousePressed
 
     private void jButton4MousePressed(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jButton4MousePressed
-     
+     gesDOM.annadirDOM(gesDOM.doc, jTextField1.getText(), jTextField3.getText(), jTextField2.getText());
     }//GEN-LAST:event_jButton4MousePressed
 
     /**
